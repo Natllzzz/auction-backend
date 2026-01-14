@@ -32,7 +32,8 @@
 ## Локальный запуск
 
 ```bash
-git clone <repo-url>
+git clone <https://github.com/Natllzzz/auction-backend>
 cd auction-backend
 docker-compose up --build
 ```
+
